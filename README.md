@@ -12,6 +12,8 @@
 
 [The encyclopedia of the smart contract attacks vulnerabilities](https://betterprogramming.pub/the-encyclopedia-of-smart-contract-attacks-vulnerabilities-dfc1129fdaac)
 
+[Reversing evm bytecode with radare2](https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53)
+
 **Videos**
 
 [Smart contract programming video tutorials](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
