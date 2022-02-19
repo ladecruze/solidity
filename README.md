@@ -1,5 +1,7 @@
 # Solidity and web3 Resources
 
+Solidity and smart contract security resources!
+
 **Blogs:**
 
 [official solidity documentation](https://docs.soliditylang.org/en/v0.8.0/)
