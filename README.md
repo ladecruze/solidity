@@ -8,6 +8,8 @@
 
 [How to write and deploy your first smart contract](https://www.freecodecamp.org/news/how-to-write-and-deploy-your-first-smart-contract-341d5e2ffb35/)
 
+[The hitchhikers guide to smart contracts](https://medium.com/bitcorps-blog/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05#.6dob381ks)
+
 **Videos**
 
 [Smart contract programming video tutorials](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
