@@ -10,6 +10,7 @@
 
 [The hitchhikers guide to smart contracts](https://medium.com/bitcorps-blog/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05#.6dob381ks)
 
+[The encyclopedia of the smart contract attacks vulnerabilities](https://betterprogramming.pub/the-encyclopedia-of-smart-contract-attacks-vulnerabilities-dfc1129fdaac)
 **Videos**
 
 [Smart contract programming video tutorials](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
