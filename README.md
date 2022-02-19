@@ -48,3 +48,8 @@ Solidity and smart contract security resources!
 [VS Code Visual Auditor for Solidity](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
 
 [VS Code Visual Auditor for Vyper](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-vyper)
+
+
+
+
+Follow me on [Twitter](https://www.ladecruze.com/ladecruze)
