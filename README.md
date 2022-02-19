@@ -14,6 +14,8 @@
 
 [Reversing evm bytecode with radare2](https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53)
 
+[Reentrancy attack on smart contracts! How to identify and exploit it](https://gus-tavo-guim.medium.com/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4)
+
 **Videos**
 
 [Smart contract programming video tutorials](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
