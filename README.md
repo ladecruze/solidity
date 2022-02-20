@@ -49,7 +49,9 @@ Solidity and smart contract security resources!
 
 [VS Code Visual Auditor for Vyper](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-vyper)
 
+**Contracts**
 
-
+[Consensys audits](https://consensys.net/diligence/audits/2021/10/gluwacoin-erc-20-wrapper/)
+[Solidified platform audits](https://github.com/solidified-platform/audits)
 
 Follow me on [Twitter](https://www.ladecruze.com/ladecruze)
