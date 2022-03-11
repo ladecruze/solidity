@@ -24,6 +24,8 @@ Solidity and smart contract security resources!
 
 [Smart contract programming video tutorials](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
 
+[Solidity and ethereum hacking from Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
+
 **Courses:**
 
 [Smart contract crash course](https://www.dappuniversity.com/articles/solidity-tutorial)
